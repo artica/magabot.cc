@@ -1,0 +1,4 @@
+magabot
+=======
+
+Magabot.cc placeholder
